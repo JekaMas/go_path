@@ -18,6 +18,7 @@ https://learngitbranching.js.org/
 ## Середина
 
 4.
+https://leanpub.com/golang-tdd
 https://quii.gitbook.io/learn-go-with-tests/
 https://gophercises.com/
 https://m.habr.com/ru/company/mailru/blog/314804/
