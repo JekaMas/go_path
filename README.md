@@ -42,6 +42,10 @@ https://github.com/mindworker/go-concurrency-exercises
 https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/
 https://github.com/golang/go/wiki/LearnConcurrency
 
+9.
+https://docs.docker.com/get-started/
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
 *Все упражнения набираем на машине, запускаем и смотрим, что получается.
 После освоения третьей части все упражнения и примеры из книг выкладываем в свой репозиторий github.
 После освоения https://quii.gitbook.io/learn-go-with-tests/  - пишем на код тесты. Пробуем сначала писать тесты, а потом код.
