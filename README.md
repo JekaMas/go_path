@@ -2,6 +2,14 @@
 
 ## Начала
 
+0. Если хочется математики
+https://ru.coursera.org/learn/single-variable-calculus
+https://ru.coursera.org/learn/differentiation-calculus
+https://ru.coursera.org/learn/integration-calculus
+https://ru.coursera.org/learn/applications-calculus
+https://ru.coursera.org/learn/discrete-calculus
+
+
 1.
 https://www.ozon.ru/context/detail/id/144946027/
 https://tour.golang.org/
