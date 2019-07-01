@@ -8,7 +8,7 @@ https://ru.coursera.org/learn/differentiation-calculus
 https://ru.coursera.org/learn/integration-calculus
 https://ru.coursera.org/learn/applications-calculus
 https://ru.coursera.org/learn/discrete-calculus
-
+https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
 1.
 https://www.ozon.ru/context/detail/id/144946027/
