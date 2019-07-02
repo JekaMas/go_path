@@ -54,6 +54,10 @@ https://github.com/golang/go/wiki/LearnConcurrency
 https://docs.docker.com/get-started/
 https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
+10.
+https://youtu.be/SW_UCzFO7X0
+https://javarush.ru/quests/lectures?quest=QUEST_HARVARD_CS50&level=0
+
 *Все упражнения набираем на машине, запускаем и смотрим, что получается.
 После освоения третьей части все упражнения и примеры из книг выкладываем в свой репозиторий github.
 После освоения https://quii.gitbook.io/learn-go-with-tests/  - пишем на код тесты. Пробуем сначала писать тесты, а потом код.
