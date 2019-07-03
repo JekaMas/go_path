@@ -10,7 +10,7 @@
 - https://ru.coursera.org/learn/discrete-calculus
 - https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg
 
-1. Введение. 
+1. Введение. Общая CS теория. Обзор go на практике и первая книга по go
 - https://www.ozon.ru/context/detail/id/144946027/
 - https://tour.golang.org/
 - http://golang-book.ru/
