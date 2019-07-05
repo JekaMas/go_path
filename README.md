@@ -12,6 +12,7 @@
 
 1. Введение. Общая CS теория. Обзор go на практике и первая книга по go
 - https://www.ozon.ru/context/detail/id/144946027/
+- https://www.codecademy.com/learn/learn-the-command-line
 - https://tour.golang.org/
 - http://golang-book.ru/
 
