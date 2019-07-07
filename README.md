@@ -33,8 +33,7 @@
 - https://quii.gitbook.io/learn-go-with-tests/
 - https://gophercises.com/
 
-4.1. Статьи в поддержку практики. Читать с п4 и п5
-### Основы go
+4.1. Статьи в поддержку практики. Читать с п4 и п5. Подключить travis в телеграмм https://testdriven.io/blog/getting-telegram-notifications-from-travis-ci/## Основы go
 
 - https://m.habr.com/ru/company/mailru/blog/314804/
 - https://m.habr.com/ru/post/118898/
