@@ -26,18 +26,67 @@
 
 ## Середина
 
-4. Продолжение практики
+4. Продолжение практики. Практику делать в репозитории и на него надо сделать travis CI(билд, тесты, покрытие). Принятие упражнений через пул реквесты.
 - https://m.habr.com/ru/company/mailru/blog/314804/
 - https://exercism.io/tracks/go
 - https://leanpub.com/golang-tdd
 - https://quii.gitbook.io/learn-go-with-tests/
 - https://gophercises.com/
 
+4.1. Статьи в поддержку практики. Читать с п4 и п5
+### Основы go
+
+- https://m.habr.com/ru/company/mailru/blog/314804/
+- https://m.habr.com/ru/post/118898/
+- https://m.habr.com/ru/post/457728/
+- https://m.habr.com/ru/company/otus/blog/453806/
+- https://m.habr.com/ru/post/243593/
+- https://m.habr.com/ru/post/421411/
+
+### Интерфейсы
+
+- https://m.habr.com/ru/post/276981/
+- https://m.habr.com/ru/post/350856/
+- https://m.habr.com/ru/post/450386/
+- https://m.habr.com/ru/company/funcorp/blog/372199/
+- https://m.habr.com/ru/post/332948/
+
+
+### Конкурентность
+
+- https://m.habr.com/ru/company/piter/blog/274569/
+- https://m.habr.com/ru/company/ua-hosting/blog/269271/
+- https://m.habr.com/ru/post/333654/
+- https://m.habr.com/ru/company/ruvds/blog/442648/
+- https://m.habr.com/ru/post/308070/
+- https://blog.golang.org/share-memory-by-communicating
+- https://m.habr.com/ru/post/265833/
+- https://m.habr.com/ru/post/271789/
+
+
+### Стандартная библиотека
+
+- https://m.habr.com/ru/post/307554/
+- https://m.habr.com/ru/post/306914/
+- https://m.habr.com/ru/post/415171/
+
+### Тестирование
+
+- https://m.habr.com/ru/post/268585/
+- https://m.habr.com/ru/company/otus/blog/452772/
+- https://m.habr.com/ru/company/badoo/blog/301990/
+
+### Кодогенерация
+
+- https://m.habr.com/ru/post/269887/
+
+
+
 5. Ещё практика
-https://www.hackerrank.com/domains/tutorials/30-days-of-code
-https://www.hackerrank.com/domains/algorithms
-https://www.hackerrank.com/domains/data-structures
-https://www.hackerrank.com/domains/mathematics
+- https://www.hackerrank.com/domains/tutorials/30-days-of-code
+- https://www.hackerrank.com/domains/algorithms
+- https://www.hackerrank.com/domains/data-structures
+- https://www.hackerrank.com/domains/mathematics
 
 6. SQL
 - https://www.ozon.ru/context/detail/id/24939188/
