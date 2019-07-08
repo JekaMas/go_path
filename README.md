@@ -29,6 +29,7 @@
 
 4. Продолжение практики. Практику делать в репозитории и на него надо сделать travis CI(билд, тесты, покрытие). Принятие упражнений через пул реквесты.
 - https://m.habr.com/ru/company/mailru/blog/314804/
+
 - https://github.com/SimonWaldherr/golang-examples
 - https://exercism.io/tracks/go
 - https://leanpub.com/golang-tdd
@@ -36,7 +37,7 @@
 - https://gophercises.com/
 
 4.1. Статьи в поддержку практики. Читать с п4 и п5. Подключить travis в телеграмм https://testdriven.io/blog/getting-telegram-notifications-from-travis-ci/## Основы go
-
+- https://www.vld.by/slices-in-go
 - https://m.habr.com/ru/company/mailru/blog/314804/
 - https://m.habr.com/ru/post/118898/
 - https://m.habr.com/ru/post/457728/
