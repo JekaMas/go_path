@@ -23,6 +23,7 @@
 3. Git - системы управления версиями
 - https://try.github.io/
 - https://learngitbranching.js.org/
+- https://www.codecademy.com/learn/learn-the-command-line
 
 ## Середина
 
