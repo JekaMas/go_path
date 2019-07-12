@@ -19,6 +19,7 @@
 2. Практика и ввередние в алгоритмы
 - https://gobyexample.com/
 - https://www.ozon.ru/context/detail/id/139296295/
+- https://m.habr.com/ru/post/112953/
 
 3. Git - системы управления версиями
 - https://try.github.io/
