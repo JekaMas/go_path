@@ -20,6 +20,12 @@
 - https://gobyexample.com/
 - https://www.ozon.ru/context/detail/id/139296295/
 - https://m.habr.com/ru/post/112953/
+- https://m.habr.com/ru/post/337260/
+- https://m.habr.com/ru/post/146109/
+- https://m.habr.com/ru/post/313274/
+- https://m.habr.com/ru/post/146901/
+- https://m.habr.com/ru/post/431866/
+- https://m.habr.com/ru/post/452584/
 
 3. Git - системы управления версиями
 - https://try.github.io/
