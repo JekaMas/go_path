@@ -36,6 +36,7 @@
 
 4. Продолжение практики. Практику делать в репозитории и на него надо сделать travis CI(билд, тесты, покрытие). Принятие упражнений через пул реквесты.
 - https://m.habr.com/ru/company/mailru/blog/314804/
+- https://m.habr.com/ru/post/339192/
 
 - https://github.com/SimonWaldherr/golang-examples
 - https://exercism.io/tracks/go
