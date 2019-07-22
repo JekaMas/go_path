@@ -80,7 +80,7 @@
 - https://m.habr.com/ru/post/307554/
 - https://m.habr.com/ru/post/306914/
 - https://m.habr.com/ru/post/415171/
-- fmt, math, os, path, rand, binary, srand, tensing, runtime
+- fmt, math, os, path, rand, binary, srand, tensing, runtime, time, context, sync, atomic, ioutil
 
 ### Тестирование
 
