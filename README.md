@@ -86,6 +86,7 @@
 - https://m.habr.com/ru/post/268585/
 - https://m.habr.com/ru/company/otus/blog/452772/
 - https://m.habr.com/ru/company/badoo/blog/301990/
+- https://www.youtube.com/watch?v=ndmB0bj7eyw
 
 ### Кодогенерация
 
