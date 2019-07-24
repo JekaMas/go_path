@@ -62,19 +62,6 @@
 - https://m.habr.com/ru/company/funcorp/blog/372199/
 - https://m.habr.com/ru/post/332948/
 
-
-### Конкурентность
-
-- https://m.habr.com/ru/company/piter/blog/274569/
-- https://m.habr.com/ru/company/ua-hosting/blog/269271/
-- https://m.habr.com/ru/post/333654/
-- https://m.habr.com/ru/company/ruvds/blog/442648/
-- https://m.habr.com/ru/post/308070/
-- https://blog.golang.org/share-memory-by-communicating
-- https://m.habr.com/ru/post/265833/
-- https://m.habr.com/ru/post/271789/
-
-
 ### Стандартная библиотека
 
 - https://m.habr.com/ru/post/307554/
@@ -87,7 +74,20 @@
 - https://m.habr.com/ru/post/268585/
 - https://m.habr.com/ru/company/otus/blog/452772/
 - https://m.habr.com/ru/company/badoo/blog/301990/
+- https://quii.gitbook.io/learn-go-with-tests/
 - https://www.youtube.com/watch?v=ndmB0bj7eyw
+
+
+### Конкурентность
+
+- https://m.habr.com/ru/company/piter/blog/274569/
+- https://m.habr.com/ru/company/ua-hosting/blog/269271/
+- https://m.habr.com/ru/post/333654/
+- https://m.habr.com/ru/company/ruvds/blog/442648/
+- https://m.habr.com/ru/post/308070/
+- https://blog.golang.org/share-memory-by-communicating
+- https://m.habr.com/ru/post/265833/
+- https://m.habr.com/ru/post/271789/
 
 ### Кодогенерация
 
