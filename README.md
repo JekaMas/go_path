@@ -68,7 +68,7 @@
 - https://m.habr.com/ru/post/306914/
 - https://m.habr.com/ru/post/415171/
 - https://medium.com/golangspec/in-depth-introduction-to-bufio-scanner-in-golang-55483bb689b4
-- fmt, strings, bytes, math, math/rand, math/big, time, testing, testing/quick, testing/iotest, os, io, io/ioutil, path, sort, bufio, http, runtime, context, sync, atomic, crypto, crypto/rand, binary
+- fmt, strings, bytes, math, math/rand, math/big, time, testing, testing/quick, testing/iotest, os, io, io/ioutil, path, sort, bufio, http, flags, runtime, context, sync, atomic, crypto, crypto/rand, binary
 
 ### Тестирование
 
