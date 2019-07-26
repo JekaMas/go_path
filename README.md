@@ -90,6 +90,8 @@
 - https://m.habr.com/ru/post/265833/
 - https://m.habr.com/ru/post/271789/
 - https://youtu.be/ZMZpH4yT7M0
+
+- https://youtu.be/q4HoWwdZUHs
 - https://youtu.be/-K11rY57K7k
 
 ### Кодогенерация
