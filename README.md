@@ -102,6 +102,7 @@
 
 5. Ещё практика
 - https://www.hackerrank.com/domains/tutorials/30-days-of-code
+- Head first. https://www.ozon.ru/context/detail/id/144233005/
 - https://www.hackerrank.com/domains/algorithms
 - https://www.hackerrank.com/domains/data-structures
 - https://www.hackerrank.com/domains/mathematics
