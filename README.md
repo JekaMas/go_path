@@ -99,7 +99,9 @@
 
 - https://m.habr.com/ru/post/269887/
 
+### Пакеты, модули, структура
 
+- https://github.com/golang-standards/project-layout?files=1
 
 5. Ещё практика
 - https://www.hackerrank.com/domains/tutorials/30-days-of-code
