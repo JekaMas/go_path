@@ -110,6 +110,7 @@
 
 6. SQL
 - https://www.ozon.ru/context/detail/id/24939188/
+- http://go-database-sql.org/
 - http://www.sql-ex.ru/?Lang=0
 - https://www.vividcortex.com/resources/the-ultimate-guide-to-building-database-driven-apps-with-go
 
