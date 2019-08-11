@@ -27,6 +27,7 @@
 - https://m.habr.com/ru/post/431866/
 - https://m.habr.com/ru/post/452584/
 - https://m.habr.com/ru/company/yandex/blog/442762/
+- https://m.habr.com/ru/company/yandex/blog/463203/
 
 3. Git - системы управления версиями
 - https://try.github.io/
