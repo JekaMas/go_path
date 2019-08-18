@@ -18,6 +18,7 @@
 
 2. Практика и ввередние в алгоритмы
 - https://gobyexample.com/
+- https://m.habr.com/ru/post/249545/
 - https://www.ozon.ru/context/detail/id/139296295/
 - https://m.habr.com/ru/post/112953/
 - https://m.habr.com/ru/post/337260/
