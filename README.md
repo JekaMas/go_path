@@ -124,8 +124,8 @@
 
 7. Конкурентность. Основы
 - https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
-
-## Завершение
+- https://m.habr.com/ru/company/oleg-bunin/blog/461829/
+# Завершение
 
 8. Практика конкурентного кода
 - https://github.com/mindworker/go-concurrency-exercises
