@@ -126,6 +126,8 @@
 7. Конкурентность. Основы
 - https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
 - https://m.habr.com/ru/company/oleg-bunin/blog/461829/
+
+
 # Завершение
 
 8. Практика конкурентного кода
@@ -134,6 +136,7 @@
 9. Продвинутая теория и практика по конкурентному коду
 - https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/
 - https://github.com/golang/go/wiki/LearnConcurrency
+- https://rakyll.org/scheduler/
 
 10. Контейнеры
 - https://docs.docker.com/get-started/
