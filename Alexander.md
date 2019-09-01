@@ -8,6 +8,7 @@
 7. Книга грокаем алгоритмы https://www.ozon.ru/context/detail/id/139296295/
 8. Возвращаемся к магазину и делаем всё до раздела web, через tdd.
 9. https://m.habr.com/ru/company/mailru/blog/314804/
+10. https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
 10. https://golang.org/doc/effective_go.html
 11. https://exercism.io/tracks/go
 12. Ещё конкурентности https://github.com/mindworker/go-concurrency-exercises
