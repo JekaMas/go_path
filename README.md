@@ -85,7 +85,10 @@
 
 
 ### Конкурентность
-
+- https://deadlockempire.github.io/
+- https://m.habr.com/ru/company/avito/blog/466495/
+- https://software.intel.com/en-us/blogs/2013/01/06/benign-data-races-what-could-possibly-go-wrong
+- https://golang.org/ref/mem
 - https://m.habr.com/ru/company/piter/blog/274569/
 - https://m.habr.com/ru/company/ua-hosting/blog/269271/
 - https://m.habr.com/ru/post/333654/
