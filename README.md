@@ -132,7 +132,7 @@
 - https://m.habr.com/ru/company/oleg-bunin/blog/461829/
 - https://exercism.io/tracks/go/exercises
 - https://divan.dev/posts/go_concurrency_visualize/
-
+- https://www.cs.cmu.edu/~scandal/nesl/algorithms.html
 
 # Завершение
 
