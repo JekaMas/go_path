@@ -130,6 +130,8 @@
 7. Конкурентность. Основы
 - https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
 - https://m.habr.com/ru/company/oleg-bunin/blog/461829/
+- https://exercism.io/tracks/go/exercises
+- https://divan.dev/posts/go_concurrency_visualize/
 
 
 # Завершение
