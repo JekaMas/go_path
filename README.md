@@ -156,6 +156,9 @@
 После освоения третьей части все упражнения и примеры из книг выкладываем в свой репозиторий github.
 После освоения https://quii.gitbook.io/learn-go-with-tests/  - пишем на код тесты. Пробуем сначала писать тесты, а потом код.
 
+12. Ethereum
+- https://notes.ethereum.org/@lithp/r1ESS_oLE/%2FPko3SzGwSFCjf6xlkF8s_g?type=book
+
 
 #### slice
 
