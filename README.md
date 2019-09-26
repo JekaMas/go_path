@@ -60,6 +60,7 @@
 ### Интерфейсы
 
 - https://m.habr.com/ru/company/mailru/blog/463063/
+- https://github.com/teh-cmc/go-internals/blob/master/chapter2_interfaces/README.md
 - https://m.habr.com/ru/post/276981/
 - https://m.habr.com/ru/post/350856/
 - https://m.habr.com/ru/post/450386/
