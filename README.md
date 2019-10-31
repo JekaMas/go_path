@@ -115,6 +115,7 @@
 - https://blog.golang.org/using-go-modules
 
 5. Ещё практика
+- https://github.com/ardanlabs/gotraining/
 - https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
 - https://www.hackerrank.com/domains/tutorials/30-days-of-code
 - Head first. https://www.ozon.ru/context/detail/id/144233005/
